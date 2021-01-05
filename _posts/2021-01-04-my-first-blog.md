@@ -1,4 +1,7 @@
-title: Ivan's IST Blog
+---
+title: "How Important IT is Is Jobs and Schools."
+date: 2020-01-04
+---
 author: Ivan Davila
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
